@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are a research group working on building machine learning (ML) tools for Materials Science, especially for the materials for sustainability (e.g., solar cells, energy storage materials, etc.)
+We are a research group working on building machine learning (ML) tools for materials science, especially materials for future sustainability (e.g., solar cells, energy storage materials, etc.).
 
 <!--
 
